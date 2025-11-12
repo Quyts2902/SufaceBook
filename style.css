@@ -951,6 +951,7 @@ body {
   }
   .feature-section4 .right-col-img {
     max-width: 600px;
+    border-radius: 10px 0 0 10px;
   }
   .testimonial-section5 .container-fluid {
     .left-col-content {
